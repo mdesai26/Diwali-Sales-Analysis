@@ -42,6 +42,3 @@ Product Category Analysis: Insights into the most popular product categories.
 #Conclusion
 The analysis reveals that married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing & Apparel, and Electronics & Gadgets categories.
 Top 10 Selling Products: Identification of the top 10 selling products based on the number of orders.
-
-Conclusion
-The analysis reveals that married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing & Apparel, and Electronics & Gadgets categories.
